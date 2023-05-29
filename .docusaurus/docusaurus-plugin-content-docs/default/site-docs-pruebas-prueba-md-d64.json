@@ -1,0 +1,23 @@
+{
+  "unversionedId": "pruebas/Prueba",
+  "id": "pruebas/Prueba",
+  "title": "Pagina de prueba 1",
+  "description": "",
+  "source": "@site/docs/pruebas/Prueba.md",
+  "sourceDirName": "pruebas",
+  "slug": "/pruebas/Prueba",
+  "permalink": "/docs/pruebas/Prueba",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/pruebas/Prueba.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": -2,
+  "frontMatter": {
+    "sidebar_position": -2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/docs/tutorial-extras/translate-your-site"
+  }
+}
